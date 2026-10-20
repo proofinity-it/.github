@@ -32,6 +32,6 @@ Issues and pull requests are welcome.
 ## Get in touch
 
 [proofinity.it](https://proofinity.it) · info@proofinity.it ·
-[LinkedIn](https://www.linkedin.com/company/proofinity)
+[LinkedIn](https://www.linkedin.com/company/proofinity-it)
 
 Proofinity s.r.l. — Milan, Rome (Italy)
